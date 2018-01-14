@@ -8,3 +8,7 @@ hw3 - Boolean algebra & logic
 
 hw4 - Von Neumann architecture simulation
 
+hw5 - RSR5 Scheme bank queues and tellers 
+
+hw6 - Regular expressions 
+
